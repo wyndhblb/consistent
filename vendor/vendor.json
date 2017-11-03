@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "1CgV24NpUYP9ZPIgcnbZD5F/8CA=",
+			"path": "github.com/reusee/mmh3",
+			"revision": "64b85163255bbb6af4f0d0eab61ecdda7ea7cd96",
+			"revisionTime": "2014-08-20T14:13:14Z"
+		}
+	],
+	"rootPath": "consistent"
+}
